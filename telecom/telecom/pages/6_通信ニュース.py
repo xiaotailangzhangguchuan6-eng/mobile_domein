@@ -3,7 +3,6 @@ import feedparser
 import pandas as pd
 from datetime import datetime, timezone
 import re
-
 st.set_page_config(page_title="通信ニュース × 業務インパクト", page_icon="📰", layout="wide")
 
 # ══════════════════════════════════════════════════════════════════
